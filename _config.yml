@@ -1,1 +1,19 @@
+# Site Settings
+title: Ekadet
+description: My personal portfolio, GitHub projects, and blog posts.
 theme: jekyll-theme-minimal
+
+# Navigation / Links
+github_username: ekadet
+linkedin_username: ekadetov
+
+# Build Settings
+url: "https://ekadet.github.io"
+baseurl: ""
+
+# Markdown Settings
+markdown: kramdown
+highlighter: rouge
+
+# Personalization
+email: ekadet@gmail.com
