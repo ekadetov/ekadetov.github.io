@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "I Made an AI That Refuses to Write Code Until I Prove I Can Think"
+title: "ProofOfThought (PoT): I Made an AI That Refuses to Write Code Until I Prove I Can Think"
 date: 2026-02-13
 ---
-
-# I Made an AI That Refuses to Write Code Until I Prove I Can Think
 
 **tl;dr:** I got tired of AI making me dumber, so I built "Proof of Thought" - an AI agent that won't write code until you demonstrate you understand the problem. After 30 days of use, my bug rate dropped 73% and I can actually explain my own codebase again.
 
