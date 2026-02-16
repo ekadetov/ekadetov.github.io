@@ -51,4 +51,4 @@ Confirm the upgrade worked and show the new version number.
 
 For those interested in the technical details or building similar skills, here's the complete skill definition:
 
-**File:** [`assets/posts/2026-02-16-opencode-upgrade-skill/opencode-upgrade/SKILL.md`](/assets/posts/2026-02-16-opencode-upgrade-skill/opencode-upgrade/SKILL.md)
+**File:** [`SKILL.md`](https://github.com/ekadetov/ekadetov.github.io/blob/main/assets/posts/2026-02-16-opencode-upgrade-skill/opencode-upgrade/SKILL.md)

@@ -149,5 +149,5 @@ Now I can.
 
 ---
 
-**[Download PoT Mode →](/assets/posts/2026-02-13-proof_of_thought/pot.md)
+**[Download PoT Mode →](https://github.com/ekadetov/ekadetov.github.io/blob/main/assets/posts/2026-02-13-proof_of_thought/pot.md)
 
